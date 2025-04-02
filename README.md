@@ -2,7 +2,7 @@
 
 MeetMinder is a sophisticated web application that extracts meeting information from emails and chat platforms, integrating them into a unified calendar with AI-powered notifications.
 
-![MeetMinder Dashboard](https://i.imgur.com/jBKqBwn.png)
+![MeetMinder Dashboard](51272d84-16d5-test.jpg)
 
 ## Features
 

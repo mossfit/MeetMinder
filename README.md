@@ -24,7 +24,9 @@ MeetMinder is a sophisticated web application that extracts meeting information 
 - **AI Integration**: OpenAI (for natural language processing)
 
 ## Demo
-![MeetMinder Demo](test_video07 14-09-44.mp4)
+
+https://github.com/user-attachments/assets/1fbf7f25-5439-413e-b693-9daff5083292
+
 A live demo of the application is available at: [https://meetminder.vercel.app](https://meetminder.vercel.app)
 
 For the demo, the authentication has been bypassed so you can access the dashboard directly without needing credentials.

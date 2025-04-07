@@ -1,9 +1,9 @@
 # MeetMinder: AI-Powered Meeting Management
 
 MeetMinder is a sophisticated web application that extracts meeting information from emails and chat platforms, integrating them into a unified calendar with AI-powered notifications.
-
 ![MeetMinder Home](home_9d79-7e53e9a12b4e-00-31nnrkv513h4y.png)
 ![MeetMinder Login](login_auth_d79-7e53e9a12b4e-00-31nnrkv513h4y.png)
+# Seamless AI Integration
 ![MeetMinder App](app0f174bb1-f02d-4876-9d79-7e53e9a12b4e-00-31nnrkv513h4y.png)
 
 ## Features
@@ -24,7 +24,7 @@ MeetMinder is a sophisticated web application that extracts meeting information 
 - **AI Integration**: OpenAI (for natural language processing)
 
 ## Demo
-
+![MeetMinder Demo](test_video07 14-09-44.mp4)
 A live demo of the application is available at: [https://meetminder.vercel.app](https://meetminder.vercel.app)
 
 For the demo, the authentication has been bypassed so you can access the dashboard directly without needing credentials.

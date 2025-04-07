@@ -1,4 +1,5 @@
 # MeetMinder: AI-Powered Meeting Management
+[![npm version](https://badge.fury.io/js/meetmiinder.svg)](//npmjs.com/package/meetminder)
 
 MeetMinder is a sophisticated web application that extracts meeting information from emails and chat platforms, integrating them into a unified calendar with AI-powered notifications.
 ![MeetMinder Home](home_9d79-7e53e9a12b4e-00-31nnrkv513h4y.png)
